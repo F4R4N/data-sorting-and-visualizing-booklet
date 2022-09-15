@@ -34,7 +34,7 @@
 * outliers
 ---
 
-### Second Week Theory :
+## Second Week Theory :
 
 #### Mean : 
 our typical average calculation e.g(12, 45, 12, 32, 21 . mean= (12+45+12+32+21)/5=122)
@@ -116,7 +116,7 @@ its kind of visualizing options. its vizualizing data specially the five number 
 **Note:** when the shape is right skewed the median is greater then mean and when its left skewed the mean is greater then median when we have bell shaped mean and median are equal.
 
 
-### Third Week Of Theory:
+## Third Week Of Theory:
 
 #### Association Types :
 * Linear association
